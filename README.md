@@ -1,17 +1,17 @@
 # 💝 QUEEN HENTAI (18+ Adult Video Downloader And More Features) Bot 💝
 
 <p align="center">
- <a href="#"><img title="QUEEN HENTAI" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="Nobita boy" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/dinuwah"><img title="Author" src="https://img.shields.io/badge/CREATOR-Dinuwa Official²⁰²³-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/dinuwah"><img title="Author" src="https://img.shields.io/badge/CREATOR-Nobita Official²⁰²³-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 
   
 <p align="center">  
   <a href="https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S">
-    <img alt=Support height="300" src="https://i.imgur.com/bFEC7lC.jpeg">
+    <img alt=Support height="300" src="https://IMG_20240412_211200_097">
    
 </a> 
     
@@ -20,15 +20,15 @@
 <a 
 
 ####  
-QUEEN HENTAI Multi Device 18+ Adult Video Downloader Whatsapp Bot.
+Nobita boy Multi Device 18+ Adult Video Downloader Whatsapp Bot.
 
 ***
 
 
 
-1. 🇱🇰 Fork Queen Hentai Git 🇱🇰
+1. 🇱🇰 Fork Nobita boy Git 🇱🇰
     <br>
-<a href='https://github.com/dinuwah/QUEEN-HENTAI' target="_blank"><img alt='💝Fork Repo💝' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+<a href='https://github.com/dinuwah/Nobita-boy' target="_blank"><img alt='💝Fork Repo💝' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
 2. Scan The QR And Upload dinuwa.data.json To Your Fork (Will Recieve It On Your Bot Number After Scanning)
     <br>
